@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cola doble en arreglo/1.0.0": {
+        "runtime": {
+          "Cola doble en arreglo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cola doble en arreglo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

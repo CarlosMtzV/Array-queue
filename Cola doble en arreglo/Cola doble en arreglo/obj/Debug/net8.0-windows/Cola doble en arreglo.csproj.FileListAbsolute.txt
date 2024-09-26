@@ -1,0 +1,16 @@
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\bin\Debug\net8.0-windows\Cola doble en arreglo.exe
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\bin\Debug\net8.0-windows\Cola doble en arreglo.deps.json
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\bin\Debug\net8.0-windows\Cola doble en arreglo.runtimeconfig.json
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\bin\Debug\net8.0-windows\Cola doble en arreglo.dll
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\bin\Debug\net8.0-windows\Cola doble en arreglo.pdb
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola_doble_en_arreglo.Form1.resources
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.csproj.GenerateResource.cache
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.AssemblyInfoInputs.cache
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.AssemblyInfo.cs
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.csproj.CoreCompileInputs.cache
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.dll
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\refint\Cola doble en arreglo.dll
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.pdb
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\Cola doble en arreglo.genruntimeconfig.cache
+E:\Queeqe\Cola doble en arreglo\Cola doble en arreglo\obj\Debug\net8.0-windows\ref\Cola doble en arreglo.dll
